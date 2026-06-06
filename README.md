@@ -19,3 +19,4 @@ This task focuses on building an Image Classification Model using Machine Learni
 #OUTPUT
 <img width="787" height="537" alt="Image" src="https://github.com/user-attachments/assets/30496712-fd0b-45fb-87c9-cb0c4aa5ba3a" />
 
+<img width="517" height="557" alt="Image" src="https://github.com/user-attachments/assets/abfb450f-a913-41c7-9ca0-e3854e06975a" />
